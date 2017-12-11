@@ -1,86 +1,62 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "name": "HelloKitty",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/5/52/Sanrio_Characters_Hello_Kitty_Image026.png/revision/latest?cb=20170518182133"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "Pompompurin",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/5/5e/Sanrio_Characters_Pompompurin_Image009.gif/revision/latest?cb=20100814044557"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "Mimmy",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/c/c5/Sanrio_Characters_Mimmy_Image002.gif/revision/latest?cb=20120213175454"
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "name": "Little Twin Stars",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/a/a2/Sanrio_Characters_Little_Twin_Stars_Image060.gif/revision/latest?cb=20170331160604"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "name": "Badtz-Maru",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/7/75/Sanrio_Characters_Badtz-Maru_Image009.gif/revision/latest?cb=20100814054828"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "name": "Chococat",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/8/8d/Sanrio_Characters_Chococat_Image008.jpg/revision/latest?cb=20100814054405"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "name": "Keroppi",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/3/38/Sanrio_Characters_Keroppi_Image009.gif/revision/latest?cb=20100814042534"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "name": "Cinnamoroll",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/a/a8/Sanrio_Characters_Cinnamoroll_Image010.jpg/revision/latest?cb=20100814055119"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "name": "Chibimaru",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/6/62/Sanrio_Characters_Chibimaru_Image004.gif/revision/latest?cb=20100814042156"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "name": "My Melody",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/6/6e/Sanrio_Characters_My_Melody_Image033.gif/revision/latest?cb=20120311041735"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "name": "Pandapple",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/f/f6/Sanrio_Characters_Pandapple_Image001.png/revision/latest?cb=20170403230845"
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "Landry",
+    "image": "https://vignette.wikia.nocookie.net/hellokitty/images/1/1a/Sanrio_Characters_Landry--Pea_Image004.png/revision/latest?cb=20170525171741"
   }
 ]
