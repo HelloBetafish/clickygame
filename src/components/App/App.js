@@ -35,6 +35,13 @@ class App extends Component {
 
   incrementScore = () => {
     this.setState({ score: this.state.score + 1 });
+    if (this.setState === 12){
+      alert("Congratulations! You are a memory wizard!");
+      this.setState({
+        guessedCards: [],
+        score: 0
+      });
+    }
   }
 
   incrementTopScore = () => {
