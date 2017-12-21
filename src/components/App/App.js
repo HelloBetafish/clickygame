@@ -66,10 +66,8 @@ class App extends Component {
       });
     }
 
-    // Set this.state.friends equal to the new friends array
-    console.log(this.state.guessedCards);
-    // console.log(this.state.guessedCards[0].id)
-    console.log(id);
+    // console.log(this.state.guessedCards);
+    // console.log(id);
   }
 
   
